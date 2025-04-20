@@ -55,5 +55,5 @@ A* algoritması, en kısa yolu bulmak için kullanılan bir arama algoritmasıd�
 ## 💻 Derleme ve Çalıştırma
 
 ```bash
-g++ a_star.cpp test.cpp -o program
+g++ a-star.cpp Test.cpp -o program
 ./program
