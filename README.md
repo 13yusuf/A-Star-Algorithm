@@ -1,3 +1,6 @@
+#ilk projemiz..
+
+
 # A-Star-Algorithm
 Algorithm implementation and analysis for class project
 
@@ -58,4 +61,4 @@ A* algoritması, en kısa yolu bulmak için kullanılan bir arama algoritmasıd�
 g++ a-star.cpp Test.cpp -o program
 ./program
 
-## Yapanlar:Furkan Danışık ve Yusuf Akın...
+# Yapanlar:Furkan Danışık ve Yusuf Akın...
