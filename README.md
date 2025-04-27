@@ -57,3 +57,5 @@ A* algoritması, en kısa yolu bulmak için kullanılan bir arama algoritmasıd�
 ```bash
 g++ a-star.cpp Test.cpp -o program
 ./program
+
+## Yapanlar:Furkan Danışık ve Yusuf Akın
