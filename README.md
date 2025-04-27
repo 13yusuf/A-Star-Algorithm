@@ -4,26 +4,26 @@
 # A-Star-Algorithm
 Algorithm implementation and analysis for class project
 
-## 🔍 Algoritmanın Ne Yaptığı
+## Algoritmanın Ne Yaptığı
 A* algoritması, en kısa yolu bulmak için kullanılan bir arama algoritmasıdır.
 
-### 📂 Kategori
+### Kategori
 - Arama algoritmaları
 - Grafik (graph) tabanlı algoritmalar
 
-### ⚙️ Çözüm Yöntemi
+### Çözüm Yöntemi
 - Heuristic (tahmin edici) + Gerçek mesafe = f(n) = g(n) + h(n)
 
 ---
 
-## ⏱️ Ne Zaman ve Neden Kullanılır?
+## Ne Zaman ve Neden Kullanılır?
 - Harita üzerinde yol bulma
 - Oyunlarda yapay zekâ hareketi
 - Robotik rota planlama
 
 ---
 
-## 🧮 Karmaşıklık Analizi
+## Karmaşıklık Analizi
 - Zaman: O(b^d)
 - Alan: O(b^d)
   - b: dallanma faktörü
@@ -31,7 +31,7 @@ A* algoritması, en kısa yolu bulmak için kullanılan bir arama algoritmasıd�
 
 ---
 
-## 🪜 Adımlar
+## Adımlar
 1. Başlangıç düğümünü open list’e ekle
 2. En düşük `f(n)` değerine sahip düğümü seç
 3. Komşularını değerlendir ve güncelle
@@ -39,7 +39,7 @@ A* algoritması, en kısa yolu bulmak için kullanılan bir arama algoritmasıd�
 
 ---
 
-## 🎯 Kullanım Yerine Ait Örnek
+## Kullanım Yerine Ait Örnek
 - Başlangıç: (0, 0)
 - Hedef: (4, 4)
 - 5x5'lik grid üzerinde yol bulur.
